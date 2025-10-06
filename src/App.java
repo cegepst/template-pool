@@ -8,7 +8,7 @@ public class App {
         double chlore = lireChloreLibre();
         double alcalinite = lireAlcalinite();
         double durete = lireDureteCalcique();
-
+        System.out.println("----------------------------------");
         System.out.println("1. Augmenter la dureté calcique de 250,0 ppm avec 20,6 kg de chlorure de calcium");
     }
 
